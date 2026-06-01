@@ -72,7 +72,7 @@
       <p><strong>Scan this QR code</strong></p>
       
       <!-- === PUT YOUR QR IMAGE LINK HERE === -->
-      <img src="https://i.imgur.com/YOUR_QR_LINK_HERE.jpg" 
+      <img src="https://ibb.co/MD6zvcLy"
            alt="FamPay QR - 7694098107@fam" 
            class="qr">
       
